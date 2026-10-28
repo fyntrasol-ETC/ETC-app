@@ -1,0 +1,323 @@
+/* ── ProfileScreen ── */
+"Profile" = "Perfil";
+"My Progress" = "Mi Progreso";
+"Certificates" = "Certificados";
+"Premium Plans" = "Planes Premium";
+"Settings" = "Configuración";
+"Help Center" = "Centro de Ayuda";
+
+/* ── PremiumPlansScreen ── */
+"Unlock everything" = "Desbloquea todo";
+"Unlimited courses, offline access, certificates & your AI tutor." = "Cursos ilimitados, acceso sin conexión, certificados y tu tutor de IA.";
+"Monthly" = "Mensual";
+"Yearly" = "Anual";
+"Lifetime" = "De por vida";
+"MOST POPULAR" = "MÁS POPULAR";
+"Save 50%" = "Ahorra 50%";
+"Upgrade now" = "Mejorar ahora";
+"Unlimited courses" = "Cursos ilimitados";
+"Offline access" = "Acceso sin conexión";
+"Verified certificates" = "Certificados verificados";
+"Live classes" = "Clases en vivo";
+"AI tutor & feedback" = "Tutor de IA y retroalimentación";
+
+/* ── MyProgressScreen ── */
+"Hours" = "Horas";
+"Lessons" = "Lecciones";
+"XP" = "XP";
+"Activity" = "Actividad";
+"Week" = "Semana";
+"Month" = "Mes";
+"Year" = "Año";
+"Skill breakdown" = "Desglose de habilidades";
+"Speaking" = "Hablar";
+"AI assessed your speaking and gives feedback" = "La IA evalúa tu forma de hablar y te da retroalimentación";
+"Confidence Score" = "Puntuación de confianza";
+"Listening" = "Escuchar";
+"Based on your dictation practice" = "Basado en tu práctica de dictado";
+"Correct" = "Correcto";
+"Wrong" = "Incorrecto";
+"Total" = "Total";
+"Quizzes completed across all topics" = "Cuestionarios completados en todos los temas";
+"Quizzes Solved" = "Cuestionarios resueltos";
+"Stats fill in as you practice speaking, listening and grammar." = "Las estadísticas se completan a medida que practicas hablar, escuchar y gramática.";
+"Sign in to see your progress." = "Inicia sesión para ver tu progreso.";
+
+/* ── HelpCenterScreen ── */
+"FAQ" = "Preguntas frecuentes";
+"How do I reset my streak?" = "¿Cómo reinicio mi racha?";
+"Your streak resets if you miss a day. You can use a streak freeze from the shop to protect it." = "Tu racha se reinicia si faltas un día. Puedes usar un congelador de racha de la tienda para protegerla.";
+"How are certificates issued?" = "¿Cómo se emiten los certificados?";
+"Certificates are issued automatically when you complete all lessons in a course with a passing score." = "Los certificados se emiten automáticamente cuando completas todas las lecciones de un curso con una calificación aprobatoria.";
+"Can I learn offline?" = "¿Puedo aprender sin conexión?";
+"Yes! Premium members can download lessons for offline access from the course detail screen." = "¡Sí! Los miembros Premium pueden descargar lecciones para acceso sin conexión desde la pantalla de detalles del curso.";
+"Contact support" = "Contactar soporte";
+"Email" = "Correo electrónico";
+"WhatsApp" = "WhatsApp";
+
+/* ── CertificatesScreen ── */
+/* "Issued %@" needs a format string — see code change below */
+"Issued %@" = "Emitido %@";
+/* "Complete %@ to unlock" needs a format string — see code change below */
+"Complete %@ to unlock" = "Completa %@ para desbloquear";
+
+/* ── GrammarScreen ── */
+"Tenses" = "Tiempos verbales";
+"Articles" = "Artículos";
+"Prepositions" = "Preposiciones";
+"Passive Voice" = "Voz pasiva";
+"Active Voice" = "Voz activa";
+"Modals" = "Verbos modales";
+"Conditionals" = "Condicionales";
+"Reported Speech" = "Estilo indirecto";
+"Punctuation" = "Puntuación";
+
+/* ── PracticeScreen ── */
+"Practice" = "Práctica";
+"Sharpen every skill" = "Perfecciona cada habilidad";
+"Speaking Practice" = "Práctica de conversación";
+"AI conversations & pronunciation" = "Conversaciones con IA y pronunciación";
+"AI Tutor" = "Tutor de IA";
+"Listening Practice" = "Práctica de escucha";
+"Podcasts, dialogues & dictation" = "Podcasts, diálogos y dictado";
+"Writing Practice" = "Práctica de escritura";
+"Essays with instant AI feedback" = "Ensayos con retroalimentación instantánea de IA";
+"Vocabulary" = "Vocabulario";
+"Flashcards & word of the day" = "Tarjetas de estudio y palabra del día";
+"Quiz Center" = "Centro de cuestionarios";
+"MCQ, fill blanks, match pairs" = "Opción múltiple, completar espacios, emparejar";
+"Talk with your AI tutor" = "Habla con tu tutor de IA";
+
+/* ── VocabularyLevelsScreen ── */
+"Choose a difficulty level to start practicing." = "Elige un nivel de dificultad para empezar a practicar.";
+/* "%d words · Tap to practice" needs a format string — see code change below */
+"%d words · Tap to practice" = "%d palabras · Toca para practicar";
+"Saved Vocabulary" = "Vocabulario guardado";
+/* ── ETCNotificationsScreen ── */
+"Notifications" = "Notificaciones";
+/* Note: the notification titles/bodies (e.g. "New lesson available") are
+   sample data in the array, not UI chrome — send them separately if you
+   want them translated too; I left them out for now. */
+
+/* ── DailyChallengeScreen ── */
+"Daily Challenge" = "Desafío diario";
+"TODAY'S CHALLENGE" = "DESAFÍO DE HOY";
+"+%d XP on completion" = "+%d XP al completar";
+"Go to course" = "Ir al curso";
+"Do it now" = "Hazlo ahora";
+"🎉 Congrats!" = "🎉 ¡Felicidades!";
+"You've completed today's challenge. Come back tomorrow for a new one!" = "Has completado el desafío de hoy. ¡Vuelve mañana para uno nuevo!";
+"NEXT CHALLENGE IN" = "PRÓXIMO DESAFÍO EN";
+"Back to Home" = "Volver al inicio";
+"Loading today's challenge…" = "Cargando el desafío de hoy…";
+
+/* ── HomeScreen ── */
+"Good Morning," = "Buenos días,";
+"Day streak" = "Racha de días";
+"XP earned" = "XP ganados";
+"Categories" = "Categorías";
+"Featured course" = "Curso destacado";
+"See all" = "Ver todo";
+"BESTSELLER" = "MÁS VENDIDO";
+"CONTINUE LEARNING" = "CONTINUAR APRENDIENDO";
+"Resume" = "Reanudar";
+"NO COURSE IN PROGRESS" = "SIN CURSO EN PROGRESO";
+"Enroll now" = "Inscríbete ahora";
+"Live class" = "Clase en vivo";
+"No meeting for today" = "No hay reunión para hoy";
+"Tap to see live classes" = "Toca para ver clases en vivo";
+"LIVE NOW" = "EN VIVO";
+"STARTS IN" = "COMIENZA EN";
+"Join" = "Unirse";
+"Today · %@ · with %@" = "Hoy · %@ · con %@";
+"1 course completed" = "1 curso completado";
+"%d courses completed" = "%d cursos completados";
+"Congratulations!" = "¡Felicidades!";
+"You've earned +%d XP" = "Has ganado +%d XP";
+"\"The limits of my language are the limits of my world.\" Keep going — you're closer than yesterday." = "\"Los límites de mi lenguaje son los límites de mi mundo.\" Sigue adelante — estás más cerca que ayer.";
+
+/* ── LiveClassesScreen ── */
+"Live Classes" = "Clases en vivo";
+"My classes" = "Mis clases";
+"Teacher" = "Profesor";
+"Check back tomorrow, or ask your teacher to schedule one." = "Vuelve mañana, o pide a tu profesor que programe una.";
+"Join now" = "Unirse ahora";
+"Live class calendar" = "Calendario de clases en vivo";
+"Viewing today" = "Viendo hoy";
+"Viewing %@" = "Viendo %@";
+"Today's sessions" = "Sesiones de hoy";
+"Upcoming sessions" = "Próximas sesiones";
+"No classes added." = "No hay clases agregadas.";
+"hrs" = "hrs";
+"min" = "min";
+"sec" = "seg";
+"%@ · %@" = "%@ · %@";
+
+/* ── CourseDetailScreen ── */
+"Complete %@" = "Completar %@";
+"Senior English Coach · 14 yrs" = "Profesor senior de inglés · 14 años";
+"Curriculum" = "Plan de estudios";
+"Lifetime access" = "Acceso de por vida";
+"Payment successful" = "Pago exitoso";
+"🎉 New certificate!" = "🎉 ¡Nuevo certificado!";
+"%@ — view it in Certificates" = "%@ — véelo en Certificados";
+
+/* ── CoursesScreen ── */
+"Pick up where you left off" = "Continúa donde lo dejaste";
+"All" = "Todos";
+"Beginner" = "Principiante";
+"Spoken" = "Conversación";
+"Business" = "Negocios";
+"%d%% done" = "%d%% completado";
+
+/* ── AddPostScreen ── */
+"New post" = "Nueva publicación";
+"What's on your mind?" = "¿Qué estás pensando?";
+"Post type" = "Tipo de publicación";
+"Share a tip, ask a question, or celebrate a win…" = "Comparte un consejo, haz una pregunta o celebra un logro…";
+"Post" = "Publicar";
+"%d/%d" = "%d/%d";
+
+/* ── CommunityScreen ── */
+"Community" = "Comunidad";
+"Learn together" = "Aprende en comunidad";
+"For you" = "Para ti";
+"Questions" = "Preguntas";
+"Tips" = "Consejos";
+"Featured" = "Destacado";
+"Delete this post?" = "¿Eliminar esta publicación?";
+"This can't be undone." = "Esto no se puede deshacer.";
+"Delete" = "Eliminar";
+"Cancel" = "Cancelar";
+"Edit" = "Editar";
+"Posting to Community" = "Publicando en la Comunidad";
+
+/* ── CommentsSheet ── */
+"Comments" = "Comentarios";
+"No comments yet. Be the first to reply!" = "Aún no hay comentarios. ¡Sé el primero en responder!";
+"Replying to %@" = "Respondiendo a %@";
+"Add a comment…" = "Agrega un comentario…";
+"Edit comment…" = "Editar comentario…";
+"Save" = "Guardar";
+"Reply" = "Responder";
+"Edit your post…" = "Edita tu publicación…";
+/* ── ChangePasswordScreen ── */
+"Change Password" = "Cambiar contraseña";
+"Enter your current password, then choose a new one." = "Ingresa tu contraseña actual y luego elige una nueva.";
+"Password updated!" = "¡Contraseña actualizada!";
+"Done" = "Listo";
+"Current password" = "Contraseña actual";
+"Enter current password" = "Ingresa la contraseña actual";
+"New password" = "Nueva contraseña";
+"At least 6 characters" = "Al menos 6 caracteres";
+"Confirm new password" = "Confirmar nueva contraseña";
+"Re-enter new password" = "Vuelve a ingresar la nueva contraseña";
+"Update Password" = "Actualizar contraseña";
+"Please enter your current password." = "Por favor ingresa tu contraseña actual.";
+"New password must be at least 8 characters." = "La nueva contraseña debe tener al menos 8 caracteres.";
+"New password must contain at least one letter and one number." = "La nueva contraseña debe contener al menos una letra y un número.";
+"Passwords don't match." = "Las contraseñas no coinciden.";
+"Could not find your account." = "No se pudo encontrar tu cuenta.";
+"Current password is incorrect." = "La contraseña actual es incorrecta.";
+"New password is too weak." = "La nueva contraseña es demasiado débil.";
+
+/* ── DeleteAccountScreen ── */
+"Delete Account" = "Eliminar cuenta";
+"This action is permanent and cannot be undone. All your data will be lost." = "Esta acción es permanente y no se puede deshacer. Todos tus datos se perderán.";
+"Confirm your password" = "Confirma tu contraseña";
+"Enter your password to continue" = "Ingresa tu contraseña para continuar";
+"Deleting your account will permanently remove all progress, courses, and personal data." = "Eliminar tu cuenta borrará permanentemente todo tu progreso, cursos y datos personales.";
+"Delete My Account" = "Eliminar mi cuenta";
+"Are you absolutely sure?" = "¿Estás completamente seguro?";
+"This cannot be undone." = "Esto no se puede deshacer.";
+
+/* ── ForgotPasswordScreen ── */
+"Forgot Password?" = "¿Olvidaste tu contraseña?";
+"Enter your email and we'll send you a reset link." = "Ingresa tu correo y te enviaremos un enlace para restablecerla.";
+"Reset link sent!" = "¡Enlace de restablecimiento enviado!";
+"Check your inbox and follow the link to reset your password." = "Revisa tu bandeja de entrada y sigue el enlace para restablecer tu contraseña.";
+"Email" = "Correo electrónico";
+"Send Reset Link" = "Enviar enlace de restablecimiento";
+
+/* ── LoginScreen ── */
+"Welcome back" = "Bienvenido de nuevo";
+"Log in to continue your learning journey." = "Inicia sesión para continuar tu aprendizaje.";
+"Password" = "Contraseña";
+"Enter your password" = "Ingresa tu contraseña";
+"Forgot password?" = "¿Olvidaste tu contraseña?";
+"Log in" = "Iniciar sesión";
+"or continue with" = "o continúa con";
+"Google" = "Google";
+"Apple" = "Apple";
+"New here?" = "¿Nuevo aquí?";
+"Create account" = "Crear cuenta";
+
+/* ── SignUpScreen ── */
+"Start learning English with confidence." = "Empieza a aprender inglés con confianza.";
+"Full name" = "Nombre completo";
+"Create a password" = "Crea una contraseña";
+"Confirm password" = "Confirmar contraseña";
+"Re-enter password" = "Vuelve a ingresar la contraseña";
+"I accept the" = "Acepto los";
+"Terms" = "Términos";
+"&" = "y";
+"Privacy Policy" = "Política de privacidad";
+"Please enter your full name." = "Por favor ingresa tu nombre completo.";
+"Please enter a valid email address." = "Por favor ingresa un correo electrónico válido.";
+"Password must be at least 8 characters." = "La contraseña debe tener al menos 8 caracteres.";
+"Password must contain at least one letter and one number." = "La contraseña debe contener al menos una letra y un número.";
+"Please accept the Terms & Privacy Policy." = "Por favor acepta los Términos y la Política de privacidad.";
+
+
+"Choose language" = "Elige el idioma";
+"OK" = "OK";
+/* ── ETCDrawerMenu ── */
+"Evolving The Conversation" = "Evolving The Conversation";
+"My Courses" = "Mis cursos";
+"Live Classes" = "Clases en vivo";
+"Progress" = "Progreso";
+"Log out" = "Cerrar sesión";
+"Premium" = "Premium";
+
+/* ── ETCTab (tab bar labels) ── */
+"Courses" = "Cursos";
+"Speak" = "Hablar";
+
+/* Already added earlier, reused here — no duplicate needed: */
+/* "Home" = "Inicio";  */
+/* "Grammar" = "Gramática"; — NOTE: not yet added, see below */
+/* "Vocabulary" = "Vocabulario"; already added */
+/* "Practice" = "Práctica"; already added */
+/* "Quizzes" — needs adding, see below */
+/* "Certificates" = "Certificados"; already added */
+/* "Community" = "Comunidad"; already added */
+/* "Settings" = "Configuración"; already added */
+/* "Help Center" = "Centro de Ayuda"; already added */
+/* "Profile" = "Perfil"; already added */
+
+"Home" = "Inicio";
+"Grammar" = "Gramática";
+"Quizzes" = "Cuestionarios";
+"Dark mode" = "Modo oscuro";
+"Push notifications" = "Notificaciones push";
+"Language" = "Idioma";
+"English" = "English";
+"Español" = "Español";
+"Privacy" = "Privacidad";
+"Security" = "Seguridad";
+"Change password" = "Cambiar contraseña";
+"Delete account" = "Eliminar cuenta";
+"Completed today ✓" = "Completado hoy ✓";
+"Tap to see today's challenge" = "Toca para ver el desafío de hoy";
+"Enroll now to start learning" = "Inscríbete para empezar a aprender";
+"done" = "hecho";
+
+/* ── ProfileScreen ── */
+"Premium member" = "Miembro Premium";
+
+/* ── MyProgressScreen ── */
+"%d day streak" = "%d días de racha";
+"No activity yet this %@ — complete a lesson, quiz, or practice session to see it here." = "Aún no hay actividad este %@ — completa una lección, un cuestionario o una sesión de práctica para verla aquí.";
+/* ── PracticeScreen ── */
+"Tenses, articles, conditionals…" = "Tiempos verbales, artículos, condicionales…";
+"Confidence score: %d · tap to start" = "Puntuación de confianza: %d · toca para empezar";

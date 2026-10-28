@@ -1,0 +1,409 @@
+<resources>
+    <string name="settings_title">Configuración</string>
+    <string name="settings_dark_mode">Modo oscuro</string>
+    <string name="settings_push_notifications">Notificaciones push</string>
+    <string name="settings_language">Idioma</string>
+    <string name="settings_privacy">Privacidad</string>
+    <string name="settings_security">Seguridad</string>
+    <string name="settings_change_password">Cambiar contraseña</string>
+    <string name="settings_delete_account">Eliminar cuenta</string>
+
+    <string name="language_picker_title">Elegir idioma</string>
+    <string name="language_english">Inglés</string>
+    <string name="language_spanish">Español</string>
+
+    <string name="app_name">Evolving The Conversation</string>
+
+    <!-- HomeScreen.kt -->
+    <string name="home_menu_description">Menú</string>
+    <string name="home_search_description">Buscar</string>
+    <string name="home_notifications_description">Notificaciones</string>
+    <string name="home_greeting">Buenos días,</string>
+    <string name="home_greeting_name">%1$s 👋</string>
+    <string name="home_default_name">amigo</string>
+    <string name="home_day_streak">Racha de días</string>
+    <string name="home_xp_earned">XP ganados</string>
+    <string name="home_progress_ring_done">hecho</string>
+    <string name="home_continue_learning">CONTINÚA APRENDIENDO</string>
+    <string name="home_resume_button">▶  Reanudar</string>
+    <string name="home_no_course_in_progress">NINGÚN CURSO EN PROGRESO</string>
+    <string name="home_enroll_prompt">Inscríbete para empezar a aprender</string>
+    <string name="home_enroll_now_button">+ Inscribirse ahora</string>
+    <string name="home_daily_challenge_title">Desafío diario</string>
+    <string name="home_daily_challenge_completed">Completado hoy ✓</string>
+    <string name="home_daily_challenge_prompt">Toca para ver el desafío de hoy</string>
+    <string name="home_categories_title">Categorías</string>
+    <string name="home_category_grammar">Gramática</string>
+    <string name="home_category_vocabulary">Vocabulario</string>
+    <string name="home_category_speaking">Conversación</string>
+    <string name="home_category_listening">Escucha</string>
+    <string name="home_live_class_title">Clase en vivo</string>
+    <string name="home_no_live_classes">Aún no hay clases en vivo programadas</string>
+    <string name="home_footer_quote">«Los límites de mi lenguaje son los límites de mi mundo». Sigue adelante — estás más cerca que ayer.</string>
+    <string name="home_today_label">Hoy</string>
+    <string name="home_live_now">EN VIVO</string>
+    <string name="home_starts_in">EMPIEZA EN</string>
+    <string name="home_live_class_subtitle">%1$s · %2$s · con %3$s</string>
+    <string name="home_join_button">Unirse</string>
+
+    <plurals name="home_courses_completed">
+        <item quantity="one">1 curso completado</item>
+        <item quantity="other">%1$d cursos completados</item>
+    </plurals>
+
+    <!-- HomeDrawerContent.kt -->
+    <string name="drawer_close_description">Cerrar</string>
+    <string name="drawer_home">Inicio</string>
+    <string name="drawer_my_courses">Mis cursos</string>
+    <string name="drawer_grammar">Gramática</string>
+    <string name="drawer_vocabulary">Vocabulario</string>
+    <string name="drawer_practice">Práctica</string>
+    <string name="drawer_quizzes">Cuestionarios</string>
+    <string name="drawer_certificates">Certificados</string>
+    <string name="drawer_live_classes">Clases en vivo</string>
+    <string name="drawer_community">Comunidad</string>
+    <string name="drawer_progress">Progreso</string>
+    <string name="drawer_settings">Configuración</string>
+    <string name="drawer_help_center">Centro de ayuda</string>
+    <string name="drawer_default_user_name">Usuario</string>
+    <string name="drawer_user_premium_label">%1$s · Premium</string>
+    <string name="drawer_logout_description">Cerrar sesión</string>
+    <string name="drawer_logout_label">Cerrar sesión</string>
+
+    <!-- AppBottomNavigation.kt -->
+    <string name="nav_home">Inicio</string>
+    <string name="nav_courses">Cursos</string>
+    <string name="nav_practice">Práctica</string>
+    <string name="nav_community">Comunidad</string>
+    <string name="nav_profile">Perfil</string>
+
+    <!-- SearchScreen.kt -->
+    <string name="search_back_description">Atrás</string>
+    <string name="search_placeholder">Buscar cursos, lecciones, palabras...</string>
+    <string name="search_clear_description">Borrar</string>
+    <string name="search_recent_label">RECIENTE</string>
+    <string name="search_no_results_title">No se encontraron resultados</string>
+    <string name="search_try_searching">Intenta buscar:</string>
+    <string name="search_suggestion_grammar">Gramática</string>
+    <string name="search_suggestion_vocabulary">Vocabulario</string>
+    <string name="search_suggestion_speaking">Conversación</string>
+    <string name="search_suggestion_ielts">IELTS</string>
+    <string name="search_suggestion_quiz">Cuestionario</string>
+    <string name="search_results_for">RESULTADOS PARA "%1$s"</string>
+
+    <!-- NotificationsScreen.kt -->
+    <string name="notif_back_description">Atrás</string>
+    <string name="notif_title">Notificaciones</string>
+    <string name="notif_item1_title">Nueva lección disponible</string>
+    <string name="notif_item1_body">\'Modismos avanzados\' ya está disponible en Inglés Hablado.</string>
+    <string name="notif_item1_time">2m</string>
+    <string name="notif_item2_title">Clase en vivo en 1 hora</string>
+    <string name="notif_item2_body">Taller de conversación IELTS con Daniel R.</string>
+    <string name="notif_item2_time">1h</string>
+    <string name="notif_item3_title">Resultado del cuestionario</string>
+    <string name="notif_item3_body">Obtuviste 90% en Gramática · Tiempos verbales 🎉</string>
+    <string name="notif_item3_time">3h</string>
+    <string name="notif_item4_title">Oferta de fin de semana</string>
+    <string name="notif_item4_body">50% de descuento en Premium Anual — termina el domingo.</string>
+    <string name="notif_item4_time">1d</string>
+
+    <!-- MyProgressScreen.kt -->
+    <string name="progress_title">Mi Progreso</string>
+    <string name="progress_sign_in_prompt">Inicia sesión para ver tu progreso.</string>
+    <string name="progress_stat_hours">Horas</string>
+    <string name="progress_stat_lessons">Lecciones</string>
+    <string name="progress_stat_xp">XP</string>
+    <string name="progress_streak_label">🔥 %1$d días de racha</string>
+    <string name="progress_activity_title">Actividad</string>
+    <string name="progress_period_week">Semana</string>
+    <string name="progress_period_month">Mes</string>
+    <string name="progress_period_year">Año</string>
+    <string name="progress_no_activity_week">Aún no hay actividad esta semana — completa una lección, cuestionario o\nsesión de práctica para verla aquí.</string>
+    <string name="progress_no_activity_month">Aún no hay actividad este mes — completa una lección, cuestionario o\nsesión de práctica para verla aquí.</string>
+    <string name="progress_no_activity_year">Aún no hay actividad este año — completa una lección, cuestionario o\nsesión de práctica para verla aquí.</string>
+    <string name="progress_skill_breakdown_title">Desglose de habilidades</string>
+    <string name="progress_skill_speaking_title">Conversación</string>
+    <string name="progress_skill_speaking_subtitle">La IA evaluó tu conversación y te da retroalimentación</string>
+    <string name="progress_stat_confidence_score">Puntuación de confianza</string>
+    <string name="progress_skill_listening_title">Escucha</string>
+    <string name="progress_skill_listening_subtitle">Basado en tu práctica de dictado</string>
+    <string name="progress_stat_correct">Correctas</string>
+    <string name="progress_stat_wrong">Incorrectas</string>
+    <string name="progress_stat_total">Total</string>
+    <string name="progress_skill_grammar_title">Gramática</string>
+    <string name="progress_skill_grammar_subtitle">Cuestionarios completados en todos los temas</string>
+    <string name="progress_stat_quizzes_solved">Cuestionarios resueltos</string>
+    <string name="progress_stats_empty_message">Las estadísticas se completan a medida que practicas conversación, escucha y gramática.</string>
+
+    <!-- CoursesScreen.kt -->
+    <string name="courses_title">Cursos</string>
+    <string name="courses_subtitle">Continúa donde lo dejaste</string>
+    <string name="courses_search_description">Buscar</string>
+    <string name="courses_notifications_description">Notificaciones</string>
+    <string name="courses_filter_all">Todos</string>
+    <string name="courses_filter_beginner">Principiante</string>
+    <string name="courses_filter_spoken">Conversación</string>
+    <string name="courses_filter_grammar">Gramática</string>
+    <string name="courses_filter_business">Negocios</string>
+    <string name="courses_filter_ielts">IELTS</string>
+    <string name="courses_filter_advanced">Avanzado</string>
+    <string name="courses_progress_done">%1$d%% completado</string>
+
+    <!-- CourseDetailScreen.kt -->
+    <string name="course_detail_back_description">Atrás</string>
+    <string name="course_detail_play_preview_description">Reproducir vista previa</string>
+    <string name="course_detail_category_label">INGLÉS HABLADO</string>
+    <string name="course_detail_rating_label">4.9 (2.1k)</string>
+    <string name="course_detail_duration_label">8h 20m</string>
+    <plurals name="course_detail_lessons_count">
+        <item quantity="one">%1$d lección</item>
+        <item quantity="other">%1$d lecciones</item>
+    </plurals>
+    <string name="course_detail_description">Desarrolla hábitos de conversación naturales y seguros mediante práctica guiada, conversaciones reales y retroalimentación instantánea sobre tu pronunciación.</string>
+    <string name="course_detail_instructor_initials">DR</string>
+    <string name="course_detail_instructor_name">Daniel Reed</string>
+    <string name="course_detail_instructor_title">Entrenador sénior de inglés · 14 años</string>
+    <string name="course_detail_verified_description">Verificado</string>
+    <string name="course_detail_curriculum_title">Currículo</string>
+    <string name="course_detail_lifetime_access">Acceso de por vida</string>
+    <string name="course_detail_price_label">$149.00</string>
+    <string name="course_detail_enroll_button">Inscribirse ahora</string>
+    <string name="course_detail_payment_successful">Pago exitoso</string>
+    <string name="course_detail_lesson_completed_description">Completada</string>
+    <string name="course_detail_lesson_playing_description">Reproduciendo</string>
+    <string name="course_detail_resume_label">Reanudar</string>
+    <string name="course_detail_locked_description">Bloqueada</string>
+
+    <!-- PracticeScreen.kt -->
+    <string name="practice_title">Práctica</string>
+    <string name="practice_subtitle">Perfecciona cada habilidad</string>
+    <string name="practice_search_description">Buscar</string>
+    <string name="practice_notifications_description">Notificaciones</string>
+    <string name="practice_ai_tutor_title">Habla con tu tutor de IA</string>
+    <string name="practice_ai_tutor_subtitle">Puntuación de confianza: 82 · toca para empezar</string>
+    <string name="practice_ai_tutor_badge">Tutor IA</string>
+    <string name="practice_item_speaking_title">Práctica de conversación</string>
+    <string name="practice_item_speaking_subtitle">Conversaciones con IA y pronunciación</string>
+    <string name="practice_item_listening_title">Práctica de escucha</string>
+    <string name="practice_item_listening_subtitle">Podcasts, diálogos y dictado</string>
+    <string name="practice_item_writing_title">Práctica de escritura</string>
+    <string name="practice_item_writing_subtitle">Ensayos con retroalimentación instantánea de IA</string>
+    <string name="practice_item_grammar_title">Gramática</string>
+    <string name="practice_item_grammar_subtitle">Tiempos verbales, artículos, condicionales…</string>
+    <string name="practice_item_vocabulary_title">Vocabulario</string>
+    <string name="practice_item_vocabulary_subtitle">Tarjetas didácticas y palabra del día</string>
+    <string name="practice_item_quiz_title">Centro de cuestionarios</string>
+    <string name="practice_item_quiz_subtitle">Opción múltiple, completar espacios, emparejar</string>
+
+    <!-- GrammarScreen.kt -->
+    <string name="grammar_title">Gramática</string>
+    <string name="grammar_topic_tenses">Tiempos verbales</string>
+    <string name="grammar_topic_articles">Artículos</string>
+    <string name="grammar_topic_prepositions">Preposiciones</string>
+    <string name="grammar_topic_passive_voice">Voz pasiva</string>
+    <string name="grammar_topic_active_voice">Voz activa</string>
+    <string name="grammar_topic_modals">Verbos modales</string>
+    <string name="grammar_topic_conditionals">Condicionales</string>
+    <string name="grammar_topic_reported_speech">Estilo indirecto</string>
+    <string name="grammar_topic_punctuation">Puntuación</string>
+
+    <!-- ProfileScreen.kt -->
+    <string name="profile_menu_description">Menú</string>
+    <string name="profile_title">Perfil</string>
+    <string name="profile_notifications_description">Notificaciones</string>
+    <string name="profile_default_user_name">Usuario</string>
+    <string name="profile_premium_star_symbol">★</string>
+    <string name="profile_premium_member_label">Miembro Premium</string>
+    <string name="profile_menu_my_progress">Mi Progreso</string>
+    <string name="profile_menu_certificates">Certificados</string>
+    <string name="profile_menu_premium_plans">Planes Premium</string>
+    <string name="profile_menu_settings">Configuración</string>
+    <string name="profile_menu_help_center">Centro de ayuda</string>
+
+    <!-- PremiumPlansScreen.kt -->
+    <string name="premium_plans_title">Planes Premium</string>
+    <string name="premium_hero_title">Desbloquea todo</string>
+    <string name="premium_hero_subtitle">Cursos ilimitados, acceso sin conexión,\ncertificados y tu tutor de IA.</string>
+    <string name="premium_plan_monthly_label">Mensual</string>
+    <string name="premium_plan_monthly_price">$9.99</string>
+    <string name="premium_plan_monthly_unit">/mes</string>
+    <string name="premium_plan_yearly_label">Anual</string>
+    <string name="premium_plan_yearly_price">$59.99</string>
+    <string name="premium_plan_yearly_unit">/año</string>
+    <string name="premium_plan_yearly_badge">MÁS POPULAR</string>
+    <string name="premium_plan_yearly_saving">Ahorra 50%</string>
+    <string name="premium_plan_lifetime_label">De por vida</string>
+    <string name="premium_plan_lifetime_price">$149</string>
+    <string name="premium_plan_lifetime_unit"> pago único</string>
+    <string name="premium_feature_unlimited_courses">Cursos ilimitados</string>
+    <string name="premium_feature_offline_access">Acceso sin conexión</string>
+    <string name="premium_feature_verified_certificates">Certificados verificados</string>
+    <string name="premium_feature_live_classes">Clases en vivo</string>
+    <string name="premium_feature_ai_tutor_feedback">Tutor de IA y retroalimentación</string>
+    <string name="premium_upgrade_button">Mejorar ahora</string>
+
+    <!-- HelpCenterScreen.kt -->
+    <string name="help_center_title">Centro de ayuda</string>
+    <string name="help_faq_section_title">Preguntas frecuentes</string>
+    <string name="help_faq_reset_streak_question">¿Cómo reinicio mi racha?</string>
+    <string name="help_faq_reset_streak_answer">Ve a Perfil → Configuración → y toca \'Reiniciar racha\'. Ten en cuenta que los congelamientos de racha pueden proteger tu racha si faltas un día.</string>
+    <string name="help_faq_certificates_question">¿Cómo se emiten los certificados?</string>
+    <string name="help_faq_certificates_answer">Los certificados se emiten automáticamente al completar el 100% de un curso. Puedes descargarlos en PDF desde la pantalla de Certificados.</string>
+    <string name="help_faq_offline_question">¿Puedo aprender sin conexión?</string>
+    <string name="help_faq_offline_answer">¡Sí! Los usuarios Premium pueden descargar lecciones para uso sin conexión. Toca el icono de descarga en cualquier lección dentro de un curso.</string>
+    <string name="help_contact_support_title">Contactar soporte</string>
+    <string name="help_contact_email">Correo</string>
+    <string name="help_contact_whatsapp">WhatsApp</string>
+
+    <!-- SettingsScreen.kt -->
+    <string name="language_picker_confirm">Aceptar</string>
+
+    <!-- CertificatesScreen.kt -->
+    <string name="certificates_title">Certificados</string>
+    <string name="certificates_locked_message">Completa un curso para desbloquear</string>
+    <string name="certificates_issued_label">Emitido %1$s</string>
+
+    <!-- CertificateEarnedBanner.kt -->
+    <string name="certificate_banner_title">¡Nuevo certificado!</string>
+    <string name="certificate_banner_message">%1$s — véelo en Certificados</string>
+
+    <!-- ChangePasswordScreen.kt -->
+    <string name="change_password_title">Cambiar contraseña</string>
+    <string name="change_password_subtitle">Ingresa tu contraseña actual y luego elige una nueva.</string>
+    <string name="change_password_current_label">Contraseña actual</string>
+    <string name="change_password_current_placeholder">Ingresa tu contraseña actual</string>
+    <string name="change_password_new_label">Nueva contraseña</string>
+    <string name="change_password_new_placeholder">Al menos 6 caracteres</string>
+    <string name="change_password_confirm_label">Confirmar nueva contraseña</string>
+    <string name="change_password_confirm_placeholder">Vuelve a ingresar la nueva contraseña</string>
+    <string name="change_password_error_all_fields_required">Todos los campos son obligatorios</string>
+    <string name="change_password_error_min_length">La nueva contraseña debe tener al menos 6 caracteres</string>
+    <string name="change_password_error_mismatch">La nueva contraseña y la confirmación no coinciden</string>
+    <string name="change_password_update_button">Actualizar contraseña</string>
+    <string name="change_password_cancel_button">Cancelar</string>
+
+    <!-- DeleteAccountScreen.kt -->
+    <string name="delete_account_title">Eliminar cuenta</string>
+    <string name="delete_account_confirm_title">¿Estás completamente\nseguro?</string>
+    <string name="delete_account_confirm_subtitle">Esto no se puede deshacer.</string>
+    <string name="delete_account_confirm_button">Eliminar cuenta</string>
+    <string name="delete_account_warning_subtitle">Esta acción es permanente y no se puede deshacer.\nSe perderán todos tus datos.</string>
+    <string name="delete_account_confirm_password_label">Confirma tu contraseña</string>
+    <string name="delete_account_password_placeholder">Ingresa tu contraseña para continuar</string>
+    <string name="delete_account_warning_banner">Eliminar tu cuenta borrará permanentemente todo tu progreso, cursos y datos personales.</string>
+    <string name="delete_account_delete_button">Eliminar mi cuenta</string>
+    <string name="delete_account_cancel_button">Cancelar</string>
+
+    <!-- ForgotPasswordScreen.kt -->
+    <string name="forgot_password_title">¿Olvidaste tu contraseña?</string>
+    <string name="forgot_password_subtitle">Ingresa tu correo y te enviaremos un enlace para restablecerla.</string>
+    <string name="forgot_password_email_label">Correo</string>
+    <string name="forgot_password_email_placeholder">tu@ejemplo.com</string>
+    <string name="forgot_password_send_button">Enviar enlace</string>
+
+    <!-- LoginScreen.kt -->
+    <string name="login_toast_success">¡Inicio de sesión exitoso!</string>
+    <string name="login_welcome_title">Bienvenido de nuevo</string>
+    <string name="login_subtitle">Inicia sesión para continuar tu aprendizaje.</string>
+    <string name="login_email_label">Correo</string>
+    <string name="login_email_placeholder">tu@ejemplo.com</string>
+    <string name="login_password_label">Contraseña</string>
+    <string name="login_password_placeholder">Ingresa tu contraseña</string>
+    <string name="login_forgot_password_link">¿Olvidaste tu contraseña?</string>
+    <string name="login_button">Iniciar sesión</string>
+    <string name="login_or_continue_with">o continúa con</string>
+    <string name="login_google_button">Google</string>
+    <string name="login_apple_button">Apple</string>
+    <string name="login_new_here_prefix">¿Nuevo aquí? </string>
+    <string name="login_create_account_link">Crear cuenta</string>
+
+    <!-- CommunityScreen.kt -->
+    <string name="community_title">Comunidad</string>
+    <string name="community_subtitle">Aprendan juntos</string>
+    <string name="community_search_description">Buscar</string>
+    <string name="community_notifications_description">Notificaciones</string>
+    <string name="community_filter_for_you">Para ti</string>
+    <string name="community_filter_questions">Preguntas</string>
+    <string name="community_filter_tips">Consejos</string>
+    <string name="community_filter_featured">Destacado</string>
+    <string name="community_new_post_description">Nueva publicación</string>
+    <string name="community_delete_post_title">¿Eliminar publicación?</string>
+    <string name="community_delete_post_message">Esto eliminará la publicación y sus comentarios. Esta acción no se puede deshacer.</string>
+    <string name="community_delete_button">Eliminar</string>
+    <string name="community_cancel_button">Cancelar</string>
+    <string name="community_post_options_description">Opciones de la publicación</string>
+    <string name="community_edit_label">Editar</string>
+    <string name="community_post_edited_label">· editado</string>
+    <string name="community_save_button">Guardar</string>
+    <string name="community_like_description">Me gusta</string>
+    <string name="community_comments_description">Comentarios</string>
+
+    <!-- NewPostScreen.kt -->
+    <string name="newpost_title">Nueva publicación</string>
+    <string name="newpost_posting_to_community">Publicando en la comunidad</string>
+    <string name="newpost_prompt">¿Qué estás pensando?</string>
+    <string name="newpost_type_label">Tipo de publicación</string>
+    <string name="newpost_placeholder">Comparte una pregunta, consejo o idea…</string>
+    <string name="newpost_post_button">Publicar</string>
+
+    <!-- CommentsBottomSheet.kt -->
+    <string name="comments_sheet_title">Comentarios</string>
+    <string name="comments_empty_message">Aún no hay comentarios. ¡Sé el primero en responder!</string>
+    <string name="comments_delete_confirm_title">¿Eliminar comentario?</string>
+    <string name="comments_delete_confirm_message">Esta acción no se puede deshacer.</string>
+    <string name="comments_delete_button">Eliminar</string>
+    <string name="comments_cancel_button">Cancelar</string>
+    <string name="comments_replying_to_format">Respondiendo a %1$s</string>
+    <string name="comments_default_comment_label">comentario</string>
+    <string name="comments_placeholder_reply">Escribe una respuesta...</string>
+    <string name="comments_placeholder_new">Añade un comentario...</string>
+    <string name="comments_send_description">Enviar</string>
+    <string name="comments_options_description">Opciones del comentario</string>
+    <string name="comments_menu_edit_label">Editar</string>
+    <string name="comments_menu_delete_label">Eliminar</string>
+    <string name="comments_reply_label">Responder</string>
+    <string name="comments_edited_label">(editado)</string>
+    <string name="comments_like_description">Me gusta el comentario</string>
+    <string name="comments_unknown_initial">U</string>
+
+    <!-- LiveClassesScreen.kt -->
+    <string name="liveclasses_back_description">Atrás</string>
+    <string name="liveclasses_title">Clases en vivo</string>
+    <string name="liveclasses_subtitle">Únete, programa y vuelve a ver</string>
+    <string name="liveclasses_teacher_icon_description">Profesor</string>
+    <string name="liveclasses_teacher_label">Profesor</string>
+    <string name="liveclasses_live_now_label">EN VIVO</string>
+    <string name="liveclasses_with_teacher_format">con %1$s</string>
+    <string name="liveclasses_starts_in_label">EMPIEZA EN</string>
+    <string name="liveclasses_hours_label">hrs</string>
+    <string name="liveclasses_minutes_label">min</string>
+    <string name="liveclasses_seconds_label">seg</string>
+    <string name="liveclasses_no_meeting_title">No hay clase hoy</string>
+    <string name="liveclasses_no_meeting_subtitle">Vuelve mañana o pídele a tu profesor que programe una.</string>
+    <string name="liveclasses_join_now_button">Unirse ahora</string>
+    <string name="liveclasses_calendar_title">Calendario de clases en vivo</string>
+    <string name="liveclasses_viewing_today">Viendo hoy</string>
+    <string name="liveclasses_viewing_format">Viendo %1$s</string>
+    <string name="liveclasses_todays_sessions">Sesiones de hoy</string>
+    <string name="liveclasses_sessions_on_format">Sesiones el %1$s</string>
+    <string name="liveclasses_loading">Cargando…</string>
+    <string name="liveclasses_no_classes_scheduled">Aún no se han programado clases en vivo.</string>
+    <string name="liveclasses_no_classes_for_day">No hay clases programadas para este día.</string>
+    <string name="liveclasses_close_description">Cerrar</string>
+    <string name="liveclasses_previous_month_description">Mes anterior</string>
+    <string name="liveclasses_next_month_description">Mes siguiente</string>
+    <string name="liveclasses_live_badge_short">EN VIVO</string>
+    <string name="liveclasses_join_button">Unirse</string>
+    <string name="liveclasses_session_time_teacher_format">%1$s · %2$s</string>
+    <string name="liveclasses_day_preview_teacher_time_format">%1$s · %2$s</string>
+
+    <string-array name="liveclasses_weekday_initials">
+        <item>D</item>
+        <item>L</item>
+        <item>M</item>
+        <item>M</item>
+        <item>J</item>
+        <item>V</item>
+        <item>S</item>
+    </string-array>
+</resources>

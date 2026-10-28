@@ -4,3 +4,13 @@ DerivedData/
 build/
 Pods/
 GoogleService-Info.plist
+
+google-services.json
+
+*.aab
+*.apk
+build/
+.gradle/
+.idea/
+local.properties
+google-services.json
